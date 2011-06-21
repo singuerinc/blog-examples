@@ -1,8 +1,7 @@
 package net.singuerinc.labs.effects {
 
-	import flash.events.Event;
-	import com.greensock.easing.Quad;
 	import flash.display.Sprite;
+	import flash.events.Event;
 	import flash.text.TextField;
 	import flash.text.TextFieldAutoSize;
 	import flash.text.TextFormat;
